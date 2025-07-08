@@ -1,0 +1,1001 @@
+user_id,character_name,level,cybernetic_implants,luck_factor,random_event,chaos_level,predicted_number,quirkiness_rating,decision_made
+1,Neddie,60,cybernetic arm,1,encounter with rogue AI,2,82,6,join faction
+2,Lita,72,augmented eyes,1,glitch in the system,93,12,4,accept quest
+3,Wally,5,cybernetic arm,6,glitch in the system,93,42,6,betray ally
+4,Hillie,8,neural interface,10,encounter with rogue AI,88,21,5,accept quest
+5,Kaila,47,augmented eyes,6,unexpected ally,21,30,5,betray ally
+6,Jobye,78,augmented eyes,1,encounter with rogue AI,39,89,4,betray ally
+7,Mona,42,cybernetic arm,7,encounter with rogue AI,91,70,5,join faction
+8,Emilia,74,augmented eyes,2,glitch in the system,69,97,7,join faction
+9,Holden,3,neural interface,7,encounter with rogue AI,34,68,6,join faction
+10,Westley,49,neural interface,6,encounter with rogue AI,54,75,10,join faction
+11,Lisbeth,6,neural interface,6,glitch in the system,95,77,2,accept quest
+12,Marchelle,19,augmented eyes,4,unexpected ally,81,68,8,accept quest
+13,Elenore,95,cybernetic arm,2,glitch in the system,41,64,2,accept quest
+14,Fayth,78,neural interface,3,encounter with rogue AI,8,72,5,join faction
+15,Braden,19,cybernetic arm,1,glitch in the system,14,13,2,betray ally
+16,Correy,48,cybernetic arm,4,glitch in the system,39,48,5,join faction
+17,Ronny,83,cybernetic arm,8,unexpected ally,8,5,10,betray ally
+18,Waiter,61,neural interface,2,unexpected ally,3,20,10,join faction
+19,Milton,38,augmented eyes,2,unexpected ally,21,94,6,betray ally
+20,Ozzie,95,cybernetic arm,6,glitch in the system,5,95,5,betray ally
+21,Batsheva,52,augmented eyes,9,encounter with rogue AI,60,92,10,join faction
+22,Graeme,20,cybernetic arm,9,glitch in the system,79,96,5,join faction
+23,Jock,89,augmented eyes,6,unexpected ally,68,37,3,betray ally
+24,Kamillah,34,augmented eyes,10,glitch in the system,5,58,2,join faction
+25,Barbara-anne,93,augmented eyes,3,unexpected ally,71,60,1,accept quest
+26,Paco,29,cybernetic arm,4,unexpected ally,94,28,8,accept quest
+27,Isa,98,neural interface,5,glitch in the system,63,79,1,accept quest
+28,Edna,12,neural interface,4,encounter with rogue AI,27,53,6,accept quest
+29,Abram,11,augmented eyes,7,glitch in the system,22,96,5,join faction
+30,Zacharia,70,neural interface,1,encounter with rogue AI,28,51,10,accept quest
+31,Dene,74,cybernetic arm,8,glitch in the system,28,82,1,join faction
+32,Willi,6,neural interface,1,unexpected ally,85,67,2,join faction
+33,Mata,36,cybernetic arm,6,encounter with rogue AI,71,14,4,betray ally
+34,Arturo,59,neural interface,9,encounter with rogue AI,42,5,8,join faction
+35,Swen,6,neural interface,8,encounter with rogue AI,89,76,4,betray ally
+36,Roma,79,augmented eyes,1,glitch in the system,51,33,5,accept quest
+37,Maxwell,93,cybernetic arm,7,encounter with rogue AI,78,67,6,join faction
+38,Terence,67,neural interface,10,unexpected ally,68,59,2,betray ally
+39,Aline,60,neural interface,7,unexpected ally,35,53,10,accept quest
+40,Octavius,37,cybernetic arm,10,unexpected ally,52,78,6,accept quest
+41,Vidovic,55,cybernetic arm,4,unexpected ally,35,13,6,join faction
+42,Akim,91,neural interface,8,unexpected ally,42,68,1,accept quest
+43,Wenda,58,neural interface,7,encounter with rogue AI,89,15,5,betray ally
+44,Jennee,30,neural interface,5,encounter with rogue AI,68,76,1,betray ally
+45,Benn,42,cybernetic arm,5,encounter with rogue AI,31,46,5,accept quest
+46,Abey,90,augmented eyes,4,encounter with rogue AI,20,7,7,betray ally
+47,Brigit,26,neural interface,10,encounter with rogue AI,40,34,1,join faction
+48,Carlina,4,neural interface,2,glitch in the system,87,10,3,accept quest
+49,Bernete,86,cybernetic arm,8,glitch in the system,51,33,9,accept quest
+50,Riki,28,augmented eyes,2,unexpected ally,60,78,5,betray ally
+51,Concordia,56,augmented eyes,7,encounter with rogue AI,73,72,7,betray ally
+52,Hobey,29,augmented eyes,10,encounter with rogue AI,35,43,8,betray ally
+53,Marja,99,cybernetic arm,4,glitch in the system,19,100,8,join faction
+54,Bert,12,cybernetic arm,4,glitch in the system,100,29,8,betray ally
+55,Marrilee,25,cybernetic arm,2,unexpected ally,20,77,9,join faction
+56,Tess,87,cybernetic arm,5,unexpected ally,76,80,3,betray ally
+57,Priscilla,29,augmented eyes,10,unexpected ally,97,70,4,join faction
+58,Alberta,17,cybernetic arm,4,glitch in the system,3,38,9,betray ally
+59,Enrika,4,cybernetic arm,8,encounter with rogue AI,52,5,10,join faction
+60,Mignonne,51,cybernetic arm,10,encounter with rogue AI,2,69,2,join faction
+61,Kaycee,67,neural interface,7,glitch in the system,53,4,2,join faction
+62,Carline,92,augmented eyes,10,encounter with rogue AI,57,80,7,betray ally
+63,Skelly,10,neural interface,8,unexpected ally,84,81,4,accept quest
+64,Sheelah,38,augmented eyes,1,encounter with rogue AI,98,41,8,accept quest
+65,Gilda,48,cybernetic arm,10,unexpected ally,29,70,7,accept quest
+66,Prent,61,cybernetic arm,9,encounter with rogue AI,93,75,2,betray ally
+67,Damita,78,augmented eyes,7,glitch in the system,46,1,9,betray ally
+68,Orbadiah,64,augmented eyes,8,encounter with rogue AI,56,70,7,join faction
+69,Merwyn,81,augmented eyes,10,unexpected ally,24,87,6,accept quest
+70,Basia,96,neural interface,2,encounter with rogue AI,13,30,5,accept quest
+71,Prue,36,cybernetic arm,5,encounter with rogue AI,92,31,1,betray ally
+72,Karrah,79,augmented eyes,4,glitch in the system,1,3,9,accept quest
+73,Brade,28,cybernetic arm,4,encounter with rogue AI,87,11,4,betray ally
+74,Jase,96,cybernetic arm,6,encounter with rogue AI,83,27,5,accept quest
+75,Coretta,96,neural interface,3,glitch in the system,29,23,7,betray ally
+76,Ashby,50,neural interface,5,glitch in the system,3,42,1,betray ally
+77,Philip,90,augmented eyes,2,encounter with rogue AI,51,39,6,betray ally
+78,Britteny,98,neural interface,2,glitch in the system,70,53,6,join faction
+79,Ingram,75,cybernetic arm,9,encounter with rogue AI,12,12,4,betray ally
+80,Frannie,80,augmented eyes,6,glitch in the system,39,37,1,join faction
+81,Loria,72,augmented eyes,8,glitch in the system,62,85,1,accept quest
+82,Huntington,87,neural interface,2,encounter with rogue AI,41,86,10,accept quest
+83,Hamlin,34,cybernetic arm,1,glitch in the system,70,18,8,join faction
+84,Vassily,19,cybernetic arm,6,glitch in the system,50,2,8,join faction
+85,Blinny,24,augmented eyes,1,glitch in the system,89,33,10,join faction
+86,Nefen,96,cybernetic arm,2,glitch in the system,71,47,1,join faction
+87,Carr,47,neural interface,1,unexpected ally,91,93,2,accept quest
+88,Dot,27,cybernetic arm,1,unexpected ally,61,63,9,join faction
+89,Angela,63,augmented eyes,4,unexpected ally,12,38,8,betray ally
+90,Sawyere,72,augmented eyes,1,glitch in the system,20,4,2,betray ally
+91,Matthias,50,cybernetic arm,5,encounter with rogue AI,17,34,6,join faction
+92,Elli,60,cybernetic arm,7,encounter with rogue AI,97,73,5,join faction
+93,Fina,2,cybernetic arm,9,unexpected ally,13,72,2,join faction
+94,Adams,87,neural interface,8,glitch in the system,39,87,6,betray ally
+95,Christen,15,neural interface,6,glitch in the system,63,10,9,betray ally
+96,Caitrin,23,augmented eyes,9,glitch in the system,20,6,10,betray ally
+97,Shadow,80,cybernetic arm,9,encounter with rogue AI,66,20,2,betray ally
+98,Allin,23,augmented eyes,9,unexpected ally,96,77,6,betray ally
+99,Tudor,39,augmented eyes,5,encounter with rogue AI,65,66,8,accept quest
+100,Massimo,92,neural interface,4,encounter with rogue AI,60,90,7,join faction
+101,Erastus,60,neural interface,6,unexpected ally,12,92,4,betray ally
+102,Robby,26,augmented eyes,9,unexpected ally,44,36,2,accept quest
+103,Loydie,53,neural interface,6,glitch in the system,39,23,3,join faction
+104,Dacy,64,cybernetic arm,8,glitch in the system,99,41,7,join faction
+105,Tory,77,cybernetic arm,4,encounter with rogue AI,15,40,10,join faction
+106,Carmita,42,augmented eyes,8,encounter with rogue AI,92,54,5,betray ally
+107,Alix,66,neural interface,9,encounter with rogue AI,3,25,3,join faction
+108,Georgina,90,augmented eyes,5,unexpected ally,67,48,6,accept quest
+109,Lorrayne,52,augmented eyes,4,glitch in the system,71,27,9,betray ally
+110,Clint,65,augmented eyes,4,glitch in the system,12,50,3,betray ally
+111,Georgine,100,augmented eyes,2,encounter with rogue AI,96,19,7,accept quest
+112,Lizabeth,87,cybernetic arm,6,unexpected ally,87,38,10,betray ally
+113,Ketti,58,augmented eyes,8,encounter with rogue AI,52,97,6,betray ally
+114,Lezlie,64,neural interface,6,encounter with rogue AI,33,80,2,betray ally
+115,Cozmo,85,augmented eyes,6,encounter with rogue AI,20,92,8,join faction
+116,Edna,7,neural interface,1,glitch in the system,58,39,5,accept quest
+117,Phillipe,75,neural interface,8,glitch in the system,10,27,9,betray ally
+118,Agace,67,cybernetic arm,5,encounter with rogue AI,30,41,4,accept quest
+119,Prince,99,cybernetic arm,6,encounter with rogue AI,85,16,6,accept quest
+120,Ashla,65,neural interface,6,unexpected ally,13,98,2,accept quest
+121,Verna,49,cybernetic arm,6,unexpected ally,69,4,5,join faction
+122,Kaile,16,neural interface,7,unexpected ally,84,70,10,accept quest
+123,Nerte,2,augmented eyes,7,unexpected ally,79,52,5,betray ally
+124,Bettina,37,neural interface,3,glitch in the system,37,69,3,betray ally
+125,Cherye,32,neural interface,8,encounter with rogue AI,60,34,2,betray ally
+126,Betsy,85,neural interface,3,encounter with rogue AI,6,83,10,accept quest
+127,Ilaire,87,cybernetic arm,8,unexpected ally,65,11,6,join faction
+128,Estella,60,augmented eyes,4,unexpected ally,56,87,3,join faction
+129,Irina,20,cybernetic arm,1,glitch in the system,60,41,2,join faction
+130,Kelvin,64,neural interface,3,encounter with rogue AI,78,55,10,accept quest
+131,Daveta,24,augmented eyes,4,encounter with rogue AI,32,79,3,join faction
+132,Essa,51,augmented eyes,5,unexpected ally,25,5,10,accept quest
+133,Ferris,98,augmented eyes,4,glitch in the system,38,9,7,join faction
+134,Blondell,77,cybernetic arm,3,glitch in the system,37,60,10,join faction
+135,Tana,23,augmented eyes,8,unexpected ally,5,34,5,join faction
+136,Wade,28,neural interface,10,unexpected ally,13,43,7,join faction
+137,Zachery,80,augmented eyes,6,glitch in the system,39,45,2,accept quest
+138,Junia,5,cybernetic arm,7,encounter with rogue AI,97,68,4,join faction
+139,Gwyn,21,neural interface,2,unexpected ally,44,26,7,join faction
+140,Anallese,89,neural interface,9,encounter with rogue AI,85,42,2,accept quest
+141,Josh,75,neural interface,7,unexpected ally,39,80,3,join faction
+142,Diann,90,neural interface,7,encounter with rogue AI,91,96,5,accept quest
+143,Lexine,87,cybernetic arm,8,glitch in the system,70,14,10,join faction
+144,Laureen,73,augmented eyes,10,unexpected ally,81,40,7,accept quest
+145,Ulla,9,augmented eyes,4,unexpected ally,8,61,1,betray ally
+146,Feodor,25,augmented eyes,8,unexpected ally,48,17,8,join faction
+147,Jamey,70,cybernetic arm,5,glitch in the system,22,33,5,betray ally
+148,Gilberte,9,cybernetic arm,4,encounter with rogue AI,6,72,8,accept quest
+149,Giselle,2,cybernetic arm,1,unexpected ally,54,19,5,accept quest
+150,Merlina,41,neural interface,4,encounter with rogue AI,31,26,1,betray ally
+151,Neila,58,neural interface,5,glitch in the system,66,41,5,join faction
+152,Hayward,21,neural interface,5,glitch in the system,67,70,5,betray ally
+153,Gustave,71,augmented eyes,1,glitch in the system,78,100,10,accept quest
+154,Kurtis,75,augmented eyes,8,glitch in the system,18,35,7,join faction
+155,Iolande,22,augmented eyes,5,unexpected ally,23,92,6,accept quest
+156,Aurthur,71,neural interface,5,encounter with rogue AI,63,6,10,betray ally
+157,Shelba,13,cybernetic arm,7,glitch in the system,31,16,4,join faction
+158,Pauly,7,augmented eyes,2,glitch in the system,16,96,4,betray ally
+159,Lisa,98,augmented eyes,9,glitch in the system,89,55,1,betray ally
+160,Sheryl,56,cybernetic arm,4,glitch in the system,60,21,8,accept quest
+161,Valina,71,augmented eyes,7,unexpected ally,36,41,4,betray ally
+162,Karil,20,neural interface,5,encounter with rogue AI,70,41,10,accept quest
+163,Matthieu,60,neural interface,5,unexpected ally,1,99,1,betray ally
+164,Vale,16,cybernetic arm,6,glitch in the system,26,75,2,betray ally
+165,Marys,96,cybernetic arm,10,glitch in the system,75,25,5,join faction
+166,Carmencita,80,cybernetic arm,3,encounter with rogue AI,33,81,4,accept quest
+167,Tallie,50,neural interface,9,unexpected ally,35,4,8,join faction
+168,Isa,70,cybernetic arm,1,glitch in the system,76,6,2,betray ally
+169,Elise,48,cybernetic arm,10,glitch in the system,36,97,10,join faction
+170,Glyn,99,augmented eyes,9,unexpected ally,69,34,8,accept quest
+171,Nathaniel,81,neural interface,1,encounter with rogue AI,75,41,10,accept quest
+172,Orland,29,neural interface,9,glitch in the system,50,63,9,accept quest
+173,Norrie,55,cybernetic arm,8,glitch in the system,89,33,5,accept quest
+174,Raye,50,augmented eyes,2,glitch in the system,62,29,7,betray ally
+175,Stavro,97,augmented eyes,3,glitch in the system,3,91,7,accept quest
+176,Gusella,64,augmented eyes,3,unexpected ally,70,47,1,betray ally
+177,Joyan,84,neural interface,5,unexpected ally,10,88,5,join faction
+178,Windy,44,neural interface,2,unexpected ally,74,77,9,betray ally
+179,Hulda,11,cybernetic arm,9,encounter with rogue AI,62,29,4,accept quest
+180,Berget,74,neural interface,8,encounter with rogue AI,36,55,2,accept quest
+181,Billie,16,augmented eyes,6,encounter with rogue AI,5,58,3,accept quest
+182,Yale,92,augmented eyes,1,unexpected ally,23,63,10,join faction
+183,Waly,59,cybernetic arm,4,encounter with rogue AI,91,87,9,join faction
+184,Mannie,52,cybernetic arm,6,encounter with rogue AI,92,8,3,accept quest
+185,Goldina,3,augmented eyes,5,encounter with rogue AI,14,58,10,betray ally
+186,Louie,68,augmented eyes,1,unexpected ally,84,19,9,accept quest
+187,Osmond,77,cybernetic arm,1,glitch in the system,33,60,6,betray ally
+188,Celia,100,neural interface,9,unexpected ally,67,59,2,accept quest
+189,Ardine,62,cybernetic arm,9,encounter with rogue AI,40,32,7,betray ally
+190,Veronica,35,neural interface,8,encounter with rogue AI,41,20,10,accept quest
+191,Saunders,31,neural interface,2,glitch in the system,73,51,3,betray ally
+192,Claudelle,29,neural interface,8,encounter with rogue AI,92,78,9,join faction
+193,Bastian,67,neural interface,3,unexpected ally,46,53,1,betray ally
+194,Chrysa,93,augmented eyes,1,encounter with rogue AI,40,53,5,join faction
+195,Essa,84,cybernetic arm,3,encounter with rogue AI,56,16,2,join faction
+196,Casey,12,neural interface,4,glitch in the system,86,42,10,accept quest
+197,Guss,36,augmented eyes,1,encounter with rogue AI,12,9,3,join faction
+198,Lon,84,augmented eyes,6,glitch in the system,21,44,8,join faction
+199,Zechariah,12,augmented eyes,9,unexpected ally,81,37,2,accept quest
+200,Andy,7,augmented eyes,10,unexpected ally,49,49,2,betray ally
+201,Lorraine,32,neural interface,1,glitch in the system,37,16,9,join faction
+202,Niles,17,neural interface,4,glitch in the system,29,25,10,join faction
+203,Zacharias,59,neural interface,6,glitch in the system,54,82,3,accept quest
+204,Cullen,3,neural interface,6,unexpected ally,36,58,3,betray ally
+205,Nikolaos,71,cybernetic arm,7,unexpected ally,24,32,8,betray ally
+206,Brendan,74,augmented eyes,6,unexpected ally,76,44,7,join faction
+207,Oliy,11,cybernetic arm,8,unexpected ally,2,57,10,betray ally
+208,Haley,31,augmented eyes,5,unexpected ally,40,11,9,betray ally
+209,Esta,59,neural interface,4,glitch in the system,7,72,10,join faction
+210,Janaye,71,neural interface,9,encounter with rogue AI,3,12,3,betray ally
+211,Aksel,90,cybernetic arm,5,unexpected ally,8,55,6,accept quest
+212,Blondell,43,neural interface,6,unexpected ally,8,10,4,accept quest
+213,Sigrid,53,neural interface,5,encounter with rogue AI,62,14,5,accept quest
+214,Kerry,17,cybernetic arm,8,unexpected ally,47,26,3,accept quest
+215,Sigfrid,26,neural interface,8,encounter with rogue AI,9,93,5,accept quest
+216,Reggis,75,augmented eyes,5,unexpected ally,31,89,2,accept quest
+217,Otha,38,augmented eyes,8,encounter with rogue AI,52,18,9,betray ally
+218,Tanhya,4,neural interface,1,unexpected ally,61,97,4,accept quest
+219,Granny,7,cybernetic arm,4,glitch in the system,48,13,3,betray ally
+220,Karlotta,54,augmented eyes,4,unexpected ally,2,94,2,accept quest
+221,Alexio,30,cybernetic arm,3,glitch in the system,55,66,3,join faction
+222,Jeannie,70,cybernetic arm,7,unexpected ally,37,73,7,betray ally
+223,Lou,24,cybernetic arm,1,encounter with rogue AI,74,61,2,join faction
+224,Joseph,8,neural interface,8,unexpected ally,22,26,6,betray ally
+225,Nancy,11,cybernetic arm,7,glitch in the system,93,31,10,accept quest
+226,Karalynn,90,neural interface,4,unexpected ally,53,59,4,betray ally
+227,Connie,7,augmented eyes,3,glitch in the system,3,4,7,join faction
+228,Nanete,62,augmented eyes,1,unexpected ally,49,27,1,join faction
+229,Arlinda,83,cybernetic arm,7,glitch in the system,62,98,6,betray ally
+230,Payton,11,neural interface,9,encounter with rogue AI,93,10,5,betray ally
+231,Barret,64,augmented eyes,2,unexpected ally,77,98,3,join faction
+232,Raven,72,cybernetic arm,4,encounter with rogue AI,35,43,1,join faction
+233,Danila,10,augmented eyes,8,unexpected ally,91,50,5,join faction
+234,Rennie,66,augmented eyes,9,unexpected ally,78,98,2,join faction
+235,Claiborn,79,neural interface,2,unexpected ally,59,22,7,accept quest
+236,Suzette,50,neural interface,10,glitch in the system,32,85,6,accept quest
+237,Glen,57,neural interface,5,glitch in the system,27,2,6,betray ally
+238,Valentine,42,neural interface,4,encounter with rogue AI,77,18,1,accept quest
+239,Penelope,14,augmented eyes,7,glitch in the system,26,69,1,join faction
+240,Jamie,57,augmented eyes,9,unexpected ally,8,1,1,betray ally
+241,Gunilla,59,augmented eyes,3,unexpected ally,24,69,1,accept quest
+242,Dan,67,neural interface,4,encounter with rogue AI,17,72,5,join faction
+243,Tyler,19,neural interface,10,unexpected ally,94,21,4,accept quest
+244,Hartley,26,augmented eyes,1,unexpected ally,35,75,4,betray ally
+245,Nalani,96,neural interface,1,glitch in the system,15,9,6,betray ally
+246,Coralie,82,neural interface,10,encounter with rogue AI,9,53,2,betray ally
+247,Jordanna,30,cybernetic arm,10,encounter with rogue AI,61,55,7,accept quest
+248,Udale,57,neural interface,8,encounter with rogue AI,18,29,1,accept quest
+249,Sonni,72,augmented eyes,7,encounter with rogue AI,95,85,2,accept quest
+250,Renae,92,cybernetic arm,10,encounter with rogue AI,50,66,4,accept quest
+251,Cull,22,cybernetic arm,6,glitch in the system,75,88,1,join faction
+252,Larine,39,cybernetic arm,6,encounter with rogue AI,48,43,7,betray ally
+253,Wanda,24,neural interface,9,unexpected ally,30,35,9,betray ally
+254,Marne,76,neural interface,9,unexpected ally,45,11,3,accept quest
+255,Natty,12,augmented eyes,1,unexpected ally,8,13,10,betray ally
+256,Melitta,34,cybernetic arm,3,glitch in the system,38,31,2,join faction
+257,Clo,10,augmented eyes,5,unexpected ally,73,8,10,accept quest
+258,Grove,67,neural interface,2,unexpected ally,91,40,1,betray ally
+259,Jere,69,augmented eyes,1,encounter with rogue AI,62,9,6,accept quest
+260,Stephani,96,cybernetic arm,9,unexpected ally,50,86,4,join faction
+261,Kip,51,augmented eyes,4,encounter with rogue AI,27,1,3,join faction
+262,Janice,84,augmented eyes,7,encounter with rogue AI,65,32,8,betray ally
+263,Letta,15,cybernetic arm,9,glitch in the system,28,16,3,betray ally
+264,Gabbie,97,cybernetic arm,3,encounter with rogue AI,1,30,4,accept quest
+265,Conrade,16,cybernetic arm,9,unexpected ally,94,91,10,join faction
+266,Lindsey,8,cybernetic arm,10,unexpected ally,3,99,4,join faction
+267,Henryetta,81,cybernetic arm,6,encounter with rogue AI,79,78,8,join faction
+268,Zilvia,50,neural interface,4,unexpected ally,92,58,4,join faction
+269,Duffie,51,neural interface,2,glitch in the system,87,70,2,join faction
+270,Harper,12,augmented eyes,1,unexpected ally,90,49,10,accept quest
+271,Marcella,71,augmented eyes,8,glitch in the system,17,63,10,betray ally
+272,Jillene,85,augmented eyes,3,glitch in the system,38,46,9,accept quest
+273,Conrade,50,cybernetic arm,10,glitch in the system,62,20,5,join faction
+274,Yurik,36,neural interface,3,glitch in the system,64,19,3,accept quest
+275,Yehudi,18,neural interface,7,glitch in the system,34,45,4,accept quest
+276,Maxy,42,neural interface,3,unexpected ally,52,58,2,join faction
+277,Nappie,49,cybernetic arm,6,glitch in the system,26,50,9,accept quest
+278,Ainsley,49,cybernetic arm,10,encounter with rogue AI,2,99,9,accept quest
+279,Jereme,8,neural interface,7,encounter with rogue AI,12,30,9,join faction
+280,Chen,14,augmented eyes,4,encounter with rogue AI,54,41,1,accept quest
+281,Carmen,70,cybernetic arm,7,unexpected ally,84,75,5,accept quest
+282,Lydie,88,cybernetic arm,2,glitch in the system,8,4,10,betray ally
+283,Waneta,60,augmented eyes,2,encounter with rogue AI,82,26,10,betray ally
+284,Cassy,44,augmented eyes,6,unexpected ally,56,38,2,accept quest
+285,Juliane,22,augmented eyes,10,glitch in the system,42,6,4,accept quest
+286,Bar,87,augmented eyes,8,glitch in the system,87,32,2,betray ally
+287,Hebert,14,neural interface,9,unexpected ally,63,9,5,join faction
+288,Adlai,100,cybernetic arm,8,encounter with rogue AI,59,42,10,betray ally
+289,Deloris,6,augmented eyes,4,unexpected ally,28,62,9,accept quest
+290,Dell,26,augmented eyes,1,glitch in the system,95,68,6,betray ally
+291,Stephanie,59,cybernetic arm,5,unexpected ally,95,10,7,join faction
+292,Drusilla,89,neural interface,7,glitch in the system,91,94,3,betray ally
+293,Patrizius,84,neural interface,6,encounter with rogue AI,70,53,2,betray ally
+294,Rowney,81,augmented eyes,3,unexpected ally,95,95,4,betray ally
+295,Myrtia,9,neural interface,9,unexpected ally,66,18,2,accept quest
+296,Ange,2,augmented eyes,4,unexpected ally,91,75,6,accept quest
+297,Samaria,32,augmented eyes,3,encounter with rogue AI,12,2,1,accept quest
+298,Laurens,51,cybernetic arm,9,encounter with rogue AI,43,81,10,betray ally
+299,Welby,38,augmented eyes,8,unexpected ally,57,19,4,join faction
+300,Alverta,76,augmented eyes,5,unexpected ally,77,76,6,join faction
+301,Eveline,80,augmented eyes,4,unexpected ally,46,59,5,accept quest
+302,Neel,57,augmented eyes,1,unexpected ally,68,44,1,join faction
+303,Juliane,45,neural interface,2,unexpected ally,6,39,9,betray ally
+304,Marcy,88,neural interface,5,unexpected ally,21,83,3,betray ally
+305,Josh,57,augmented eyes,2,encounter with rogue AI,83,42,8,betray ally
+306,Noelyn,98,neural interface,1,unexpected ally,68,97,2,betray ally
+307,Ginger,48,neural interface,9,unexpected ally,98,61,7,join faction
+308,Josi,43,cybernetic arm,4,unexpected ally,55,100,1,betray ally
+309,Arman,84,augmented eyes,10,encounter with rogue AI,81,43,3,accept quest
+310,Guntar,95,cybernetic arm,10,glitch in the system,64,69,3,join faction
+311,Terrel,20,neural interface,1,glitch in the system,24,2,6,betray ally
+312,Chan,11,neural interface,2,glitch in the system,72,50,3,join faction
+313,Donelle,35,cybernetic arm,8,encounter with rogue AI,84,1,1,join faction
+314,Matti,37,cybernetic arm,10,glitch in the system,8,72,7,join faction
+315,Liv,62,cybernetic arm,4,encounter with rogue AI,72,32,1,accept quest
+316,Crystie,20,cybernetic arm,5,glitch in the system,91,7,6,betray ally
+317,Angelika,61,neural interface,1,unexpected ally,37,27,9,join faction
+318,Audrye,9,neural interface,2,glitch in the system,58,43,2,betray ally
+319,Tades,36,cybernetic arm,10,encounter with rogue AI,59,44,8,join faction
+320,Gui,80,cybernetic arm,2,glitch in the system,42,45,10,accept quest
+321,Rina,8,augmented eyes,3,encounter with rogue AI,67,59,8,join faction
+322,Delmor,35,cybernetic arm,6,glitch in the system,91,44,1,accept quest
+323,Bebe,2,neural interface,5,encounter with rogue AI,84,41,8,join faction
+324,Bertrando,50,neural interface,7,encounter with rogue AI,58,16,6,accept quest
+325,Cirillo,15,neural interface,3,encounter with rogue AI,17,32,5,betray ally
+326,Lorin,3,augmented eyes,7,encounter with rogue AI,12,39,1,betray ally
+327,Eula,96,neural interface,7,unexpected ally,100,30,9,join faction
+328,Waldon,24,cybernetic arm,8,unexpected ally,68,87,9,accept quest
+329,Mahmud,53,augmented eyes,2,unexpected ally,93,5,2,accept quest
+330,Ainsley,84,cybernetic arm,4,encounter with rogue AI,84,97,8,join faction
+331,Bordy,32,neural interface,1,encounter with rogue AI,69,46,10,betray ally
+332,Eleanora,55,neural interface,6,unexpected ally,62,85,1,join faction
+333,Mylo,68,augmented eyes,3,glitch in the system,94,98,9,betray ally
+334,Gwenny,44,augmented eyes,6,glitch in the system,96,82,2,betray ally
+335,Kerry,46,neural interface,2,glitch in the system,21,27,2,accept quest
+336,Wynny,9,cybernetic arm,10,glitch in the system,9,81,4,accept quest
+337,Jerrie,43,augmented eyes,10,encounter with rogue AI,70,1,4,betray ally
+338,Francisco,94,augmented eyes,9,glitch in the system,81,3,9,betray ally
+339,Zora,73,augmented eyes,6,encounter with rogue AI,25,72,8,accept quest
+340,Lindsey,3,augmented eyes,2,encounter with rogue AI,98,89,1,join faction
+341,Petr,54,neural interface,10,glitch in the system,39,52,7,accept quest
+342,Dalis,19,cybernetic arm,8,unexpected ally,11,37,10,accept quest
+343,Stevana,77,neural interface,9,unexpected ally,18,16,4,join faction
+344,Lovell,40,cybernetic arm,1,glitch in the system,8,35,8,accept quest
+345,Rosemaria,54,cybernetic arm,10,encounter with rogue AI,31,47,1,join faction
+346,Ermin,97,neural interface,10,unexpected ally,12,5,7,betray ally
+347,Rodolph,86,augmented eyes,7,encounter with rogue AI,48,21,7,betray ally
+348,Bambi,15,cybernetic arm,2,encounter with rogue AI,86,27,2,accept quest
+349,Jere,25,augmented eyes,5,unexpected ally,30,50,3,betray ally
+350,Penrod,60,cybernetic arm,2,unexpected ally,92,95,9,accept quest
+351,Ange,80,augmented eyes,8,encounter with rogue AI,98,92,2,betray ally
+352,Willetta,99,neural interface,5,unexpected ally,76,22,1,betray ally
+353,Shaina,39,cybernetic arm,9,glitch in the system,80,97,7,betray ally
+354,Eula,38,augmented eyes,5,glitch in the system,10,94,2,betray ally
+355,Fraser,5,neural interface,1,encounter with rogue AI,72,36,9,accept quest
+356,Carlos,55,cybernetic arm,2,glitch in the system,12,83,4,join faction
+357,Dorine,7,cybernetic arm,2,glitch in the system,65,28,9,join faction
+358,Pauli,57,augmented eyes,6,glitch in the system,19,79,9,betray ally
+359,Camey,6,cybernetic arm,6,glitch in the system,93,44,6,join faction
+360,Karlens,68,cybernetic arm,5,encounter with rogue AI,84,94,4,betray ally
+361,Godfree,92,cybernetic arm,8,unexpected ally,49,88,5,join faction
+362,Monroe,89,cybernetic arm,1,unexpected ally,66,61,7,betray ally
+363,Helene,96,cybernetic arm,6,encounter with rogue AI,33,48,2,betray ally
+364,Bax,78,neural interface,2,glitch in the system,50,77,5,join faction
+365,Edgardo,20,neural interface,1,unexpected ally,3,81,4,accept quest
+366,Nissy,31,cybernetic arm,4,encounter with rogue AI,58,33,3,betray ally
+367,Valerie,18,cybernetic arm,4,glitch in the system,80,13,2,betray ally
+368,Lutero,6,cybernetic arm,7,glitch in the system,51,92,5,betray ally
+369,Griffy,21,cybernetic arm,3,unexpected ally,94,95,10,accept quest
+370,Vale,24,neural interface,7,glitch in the system,24,50,1,join faction
+371,Bard,57,cybernetic arm,7,glitch in the system,91,39,4,join faction
+372,Gui,39,neural interface,7,unexpected ally,12,69,3,accept quest
+373,Gertruda,64,cybernetic arm,5,glitch in the system,31,70,9,join faction
+374,Rozelle,6,neural interface,1,glitch in the system,77,48,1,accept quest
+375,Bernhard,15,augmented eyes,4,glitch in the system,37,50,10,accept quest
+376,Terri,69,cybernetic arm,6,encounter with rogue AI,61,98,5,betray ally
+377,Ellette,56,cybernetic arm,5,unexpected ally,44,24,3,betray ally
+378,Shaine,67,augmented eyes,1,unexpected ally,61,24,6,betray ally
+379,Octavia,47,cybernetic arm,2,unexpected ally,2,89,4,accept quest
+380,Essa,78,augmented eyes,4,glitch in the system,91,78,7,betray ally
+381,Hollie,17,augmented eyes,1,unexpected ally,58,76,3,join faction
+382,Nealon,79,cybernetic arm,10,encounter with rogue AI,54,89,7,betray ally
+383,Llewellyn,30,augmented eyes,2,encounter with rogue AI,51,68,7,join faction
+384,Codie,46,augmented eyes,1,unexpected ally,28,86,7,betray ally
+385,Elna,11,cybernetic arm,4,unexpected ally,89,19,10,betray ally
+386,Emmye,46,augmented eyes,10,glitch in the system,17,74,5,accept quest
+387,Akim,59,augmented eyes,4,unexpected ally,37,68,6,betray ally
+388,Hayward,73,cybernetic arm,6,unexpected ally,89,38,4,join faction
+389,Noni,84,augmented eyes,3,unexpected ally,87,47,6,betray ally
+390,Terrie,88,augmented eyes,2,glitch in the system,42,88,4,betray ally
+391,Sherrie,5,cybernetic arm,4,encounter with rogue AI,57,52,2,accept quest
+392,Vic,30,cybernetic arm,5,unexpected ally,33,48,6,join faction
+393,Jayme,25,augmented eyes,2,encounter with rogue AI,2,23,6,betray ally
+394,Cordie,56,neural interface,9,encounter with rogue AI,64,66,3,accept quest
+395,Arlyne,80,cybernetic arm,6,encounter with rogue AI,24,44,2,accept quest
+396,Kimberlee,46,augmented eyes,5,glitch in the system,20,75,8,betray ally
+397,Wiley,45,cybernetic arm,5,glitch in the system,69,72,10,accept quest
+398,Regan,79,neural interface,1,glitch in the system,88,99,9,betray ally
+399,Mattias,99,augmented eyes,8,unexpected ally,83,3,3,betray ally
+400,Zonda,73,augmented eyes,5,unexpected ally,9,16,7,join faction
+401,Murry,12,neural interface,2,glitch in the system,50,78,4,join faction
+402,Andris,49,cybernetic arm,4,glitch in the system,70,3,1,join faction
+403,Vito,89,cybernetic arm,10,encounter with rogue AI,36,25,4,betray ally
+404,Kizzee,59,cybernetic arm,9,glitch in the system,71,88,8,join faction
+405,Harold,99,neural interface,6,unexpected ally,59,74,6,betray ally
+406,Leon,32,augmented eyes,1,encounter with rogue AI,14,45,4,betray ally
+407,Katrinka,11,neural interface,1,unexpected ally,29,44,10,betray ally
+408,Alysa,91,neural interface,7,unexpected ally,52,91,7,betray ally
+409,Drugi,75,neural interface,10,encounter with rogue AI,2,19,1,accept quest
+410,Elysha,54,cybernetic arm,1,unexpected ally,73,72,8,accept quest
+411,Ingar,48,cybernetic arm,6,encounter with rogue AI,16,74,7,join faction
+412,Wandis,75,neural interface,4,glitch in the system,71,51,9,betray ally
+413,Arel,8,cybernetic arm,4,glitch in the system,61,77,1,accept quest
+414,Benedick,49,cybernetic arm,2,glitch in the system,92,49,6,betray ally
+415,Talyah,15,neural interface,5,unexpected ally,16,73,9,betray ally
+416,Monti,87,cybernetic arm,6,encounter with rogue AI,69,29,4,betray ally
+417,Aguste,10,neural interface,6,unexpected ally,4,19,9,betray ally
+418,Dahlia,35,cybernetic arm,6,glitch in the system,67,51,6,join faction
+419,Melamie,82,augmented eyes,5,encounter with rogue AI,77,26,4,join faction
+420,Idell,82,augmented eyes,5,glitch in the system,22,62,8,betray ally
+421,Alisa,56,cybernetic arm,3,unexpected ally,27,30,1,join faction
+422,Cleon,32,augmented eyes,8,encounter with rogue AI,70,43,1,betray ally
+423,Barbie,42,augmented eyes,2,glitch in the system,67,36,10,betray ally
+424,Morganica,37,cybernetic arm,10,unexpected ally,97,89,4,join faction
+425,Britta,2,neural interface,4,encounter with rogue AI,68,36,5,join faction
+426,Thatch,81,neural interface,1,glitch in the system,46,93,4,accept quest
+427,Josy,54,augmented eyes,5,glitch in the system,80,40,3,betray ally
+428,Rafaelita,3,cybernetic arm,4,encounter with rogue AI,62,66,4,betray ally
+429,Zack,56,cybernetic arm,9,unexpected ally,40,99,9,betray ally
+430,Riki,54,cybernetic arm,6,encounter with rogue AI,33,95,10,join faction
+431,Bald,40,cybernetic arm,1,unexpected ally,72,47,2,accept quest
+432,Jacinda,37,augmented eyes,7,encounter with rogue AI,68,44,4,betray ally
+433,Wendell,70,cybernetic arm,2,unexpected ally,31,81,4,join faction
+434,Gerik,82,augmented eyes,6,encounter with rogue AI,51,36,3,join faction
+435,Bill,38,cybernetic arm,10,unexpected ally,57,70,7,accept quest
+436,Berkie,4,cybernetic arm,7,unexpected ally,78,53,5,join faction
+437,Gaston,59,neural interface,6,unexpected ally,51,71,3,accept quest
+438,Lissie,6,cybernetic arm,4,glitch in the system,2,66,8,betray ally
+439,Theresa,94,cybernetic arm,6,encounter with rogue AI,53,14,8,accept quest
+440,Adrian,98,augmented eyes,9,encounter with rogue AI,85,36,8,accept quest
+441,Garland,63,augmented eyes,1,glitch in the system,50,90,6,accept quest
+442,Merle,48,cybernetic arm,2,unexpected ally,65,10,1,join faction
+443,Bert,13,neural interface,3,unexpected ally,67,91,4,betray ally
+444,Faustine,67,cybernetic arm,7,unexpected ally,98,66,1,betray ally
+445,Lewiss,80,neural interface,2,glitch in the system,22,60,5,accept quest
+446,Kristi,39,neural interface,5,unexpected ally,83,53,9,betray ally
+447,Lefty,100,cybernetic arm,2,glitch in the system,65,17,4,accept quest
+448,Liv,40,augmented eyes,9,encounter with rogue AI,84,18,10,join faction
+449,Elnar,75,cybernetic arm,1,encounter with rogue AI,94,25,7,accept quest
+450,Pooh,22,neural interface,8,glitch in the system,80,85,6,join faction
+451,Barnabas,16,neural interface,10,encounter with rogue AI,4,29,2,betray ally
+452,Katha,96,neural interface,1,unexpected ally,2,28,4,join faction
+453,Clark,40,cybernetic arm,8,glitch in the system,9,27,10,join faction
+454,Dermot,21,cybernetic arm,2,glitch in the system,17,28,7,betray ally
+455,Noni,43,augmented eyes,4,unexpected ally,16,83,2,join faction
+456,Joana,42,cybernetic arm,4,glitch in the system,8,65,1,accept quest
+457,Gun,3,augmented eyes,9,glitch in the system,83,48,4,join faction
+458,Timmie,1,augmented eyes,6,encounter with rogue AI,98,97,7,betray ally
+459,Siouxie,1,neural interface,5,glitch in the system,84,85,3,join faction
+460,Lilia,52,neural interface,9,encounter with rogue AI,86,97,6,accept quest
+461,Ollie,69,cybernetic arm,9,glitch in the system,33,11,6,accept quest
+462,Peggy,22,neural interface,8,glitch in the system,46,81,9,join faction
+463,Troy,44,cybernetic arm,8,unexpected ally,4,44,1,accept quest
+464,Jami,13,neural interface,4,unexpected ally,79,88,9,accept quest
+465,Shannah,33,neural interface,8,glitch in the system,14,58,1,betray ally
+466,Micky,69,augmented eyes,6,unexpected ally,1,71,6,join faction
+467,Lindy,36,augmented eyes,10,encounter with rogue AI,48,46,3,join faction
+468,Giusto,82,augmented eyes,6,encounter with rogue AI,16,56,2,join faction
+469,Danit,42,augmented eyes,6,unexpected ally,46,43,6,join faction
+470,Jethro,89,cybernetic arm,2,unexpected ally,14,4,4,join faction
+471,Rice,33,cybernetic arm,6,glitch in the system,5,97,4,accept quest
+472,Morten,35,cybernetic arm,2,encounter with rogue AI,18,6,6,join faction
+473,Ira,66,neural interface,6,encounter with rogue AI,10,42,3,accept quest
+474,Gertrudis,68,neural interface,1,encounter with rogue AI,95,93,8,betray ally
+475,Cheryl,73,neural interface,2,unexpected ally,39,62,10,join faction
+476,Cosimo,72,augmented eyes,6,glitch in the system,2,66,2,accept quest
+477,Ingrid,96,cybernetic arm,3,glitch in the system,16,75,2,betray ally
+478,Philipa,36,neural interface,6,unexpected ally,77,35,9,join faction
+479,Adam,37,neural interface,3,glitch in the system,95,53,1,join faction
+480,Inglis,19,augmented eyes,2,glitch in the system,14,99,2,join faction
+481,Cyrus,35,augmented eyes,8,glitch in the system,82,35,6,accept quest
+482,Dody,80,cybernetic arm,5,unexpected ally,62,74,2,betray ally
+483,Dyanna,88,neural interface,2,encounter with rogue AI,14,66,5,accept quest
+484,Lemuel,32,augmented eyes,10,encounter with rogue AI,59,37,1,join faction
+485,Easter,97,augmented eyes,3,glitch in the system,37,38,5,betray ally
+486,Cecil,19,cybernetic arm,3,unexpected ally,6,96,1,join faction
+487,Gareth,73,neural interface,1,glitch in the system,44,41,2,betray ally
+488,Basil,42,augmented eyes,6,encounter with rogue AI,13,37,3,betray ally
+489,Corabella,88,neural interface,9,encounter with rogue AI,96,80,10,join faction
+490,Benyamin,65,cybernetic arm,3,unexpected ally,99,96,5,betray ally
+491,Sarene,80,cybernetic arm,6,unexpected ally,76,64,9,betray ally
+492,Kiri,59,cybernetic arm,1,encounter with rogue AI,37,14,1,betray ally
+493,Tisha,82,augmented eyes,10,glitch in the system,30,36,6,join faction
+494,Talbert,34,cybernetic arm,6,unexpected ally,77,5,3,join faction
+495,Dorella,51,neural interface,2,glitch in the system,13,69,5,betray ally
+496,Bobbette,97,augmented eyes,5,unexpected ally,55,37,8,betray ally
+497,Heda,56,neural interface,7,glitch in the system,2,63,8,accept quest
+498,Morton,92,cybernetic arm,9,unexpected ally,27,38,4,join faction
+499,Grady,38,cybernetic arm,3,glitch in the system,68,82,6,accept quest
+500,Clemmie,27,augmented eyes,5,encounter with rogue AI,71,51,6,betray ally
+501,Twyla,23,neural interface,1,glitch in the system,7,93,2,join faction
+502,Dimitri,78,cybernetic arm,8,encounter with rogue AI,13,92,6,accept quest
+503,Lyell,89,cybernetic arm,10,unexpected ally,41,17,6,join faction
+504,Nicole,41,neural interface,2,unexpected ally,74,83,6,join faction
+505,Annissa,15,augmented eyes,8,encounter with rogue AI,66,79,9,betray ally
+506,Charmaine,73,cybernetic arm,7,encounter with rogue AI,78,57,5,accept quest
+507,Matilde,80,neural interface,10,glitch in the system,95,16,1,betray ally
+508,Jozef,50,augmented eyes,1,glitch in the system,81,100,1,accept quest
+509,Smith,22,augmented eyes,8,unexpected ally,18,31,1,betray ally
+510,Freda,100,cybernetic arm,10,glitch in the system,77,65,6,betray ally
+511,Annalee,95,cybernetic arm,9,unexpected ally,69,42,10,join faction
+512,Cassy,29,neural interface,10,encounter with rogue AI,67,18,3,accept quest
+513,Carlie,65,cybernetic arm,10,glitch in the system,41,34,8,betray ally
+514,Karrah,47,cybernetic arm,4,unexpected ally,70,14,7,betray ally
+515,Catherine,23,neural interface,2,encounter with rogue AI,16,83,3,betray ally
+516,Joachim,6,neural interface,6,unexpected ally,33,11,1,betray ally
+517,Holden,99,cybernetic arm,3,glitch in the system,5,95,6,accept quest
+518,Ingemar,86,neural interface,7,glitch in the system,29,34,8,join faction
+519,Valentijn,24,neural interface,6,unexpected ally,49,7,9,join faction
+520,Lyn,78,cybernetic arm,5,unexpected ally,83,35,5,betray ally
+521,Jimmie,88,cybernetic arm,4,encounter with rogue AI,28,20,5,accept quest
+522,Debi,80,cybernetic arm,2,glitch in the system,64,37,4,betray ally
+523,Kiersten,18,augmented eyes,1,unexpected ally,23,6,3,betray ally
+524,Kalina,81,cybernetic arm,5,glitch in the system,36,8,10,join faction
+525,Ariel,78,augmented eyes,8,encounter with rogue AI,35,70,5,betray ally
+526,Liz,25,augmented eyes,9,encounter with rogue AI,21,63,1,accept quest
+527,Emmeline,78,augmented eyes,5,encounter with rogue AI,11,61,1,join faction
+528,Rancell,97,neural interface,4,unexpected ally,72,87,10,betray ally
+529,Ophelie,22,augmented eyes,9,glitch in the system,26,5,5,accept quest
+530,Leena,97,neural interface,10,glitch in the system,14,73,9,betray ally
+531,Carney,3,cybernetic arm,5,unexpected ally,37,75,1,accept quest
+532,Harbert,80,cybernetic arm,4,encounter with rogue AI,12,39,4,join faction
+533,Nanci,52,neural interface,8,unexpected ally,34,18,10,join faction
+534,Lewiss,8,augmented eyes,7,glitch in the system,11,37,2,betray ally
+535,Maggie,75,neural interface,9,glitch in the system,10,46,1,join faction
+536,Dimitri,68,neural interface,6,encounter with rogue AI,70,79,3,betray ally
+537,Frank,50,augmented eyes,5,encounter with rogue AI,83,24,7,betray ally
+538,Chrissy,4,augmented eyes,1,unexpected ally,8,35,4,join faction
+539,Alaric,24,neural interface,7,glitch in the system,39,74,1,betray ally
+540,Doe,86,neural interface,1,unexpected ally,92,18,1,accept quest
+541,Melvin,76,neural interface,6,encounter with rogue AI,5,41,5,join faction
+542,Marquita,89,augmented eyes,6,encounter with rogue AI,55,90,2,accept quest
+543,Deeanne,97,cybernetic arm,4,glitch in the system,26,64,2,betray ally
+544,Marnia,55,cybernetic arm,1,glitch in the system,3,72,5,join faction
+545,Andrea,100,neural interface,4,glitch in the system,67,95,2,accept quest
+546,Jilleen,57,cybernetic arm,3,unexpected ally,70,59,9,betray ally
+547,Evvie,49,cybernetic arm,8,glitch in the system,44,65,3,accept quest
+548,Vivi,25,cybernetic arm,10,glitch in the system,89,22,2,join faction
+549,Melli,79,augmented eyes,10,glitch in the system,27,43,5,betray ally
+550,Maighdiln,34,neural interface,7,unexpected ally,95,94,10,join faction
+551,Hedwiga,10,cybernetic arm,5,unexpected ally,19,5,5,join faction
+552,Clemence,79,augmented eyes,4,encounter with rogue AI,91,30,8,accept quest
+553,Deb,88,cybernetic arm,2,unexpected ally,51,34,6,betray ally
+554,Nixie,44,cybernetic arm,3,encounter with rogue AI,82,62,2,join faction
+555,Leta,54,neural interface,8,encounter with rogue AI,59,12,9,join faction
+556,Janeen,96,neural interface,6,unexpected ally,3,85,10,betray ally
+557,Flossie,54,cybernetic arm,5,encounter with rogue AI,6,79,6,join faction
+558,Robbert,54,cybernetic arm,7,glitch in the system,23,40,10,accept quest
+559,Gabriell,50,augmented eyes,7,glitch in the system,28,27,9,betray ally
+560,Andriana,55,neural interface,9,encounter with rogue AI,95,14,1,join faction
+561,Torr,12,neural interface,9,glitch in the system,97,65,10,accept quest
+562,Almeria,31,cybernetic arm,3,encounter with rogue AI,19,8,3,betray ally
+563,Nannette,46,neural interface,8,glitch in the system,75,16,7,betray ally
+564,Vidovic,76,neural interface,1,glitch in the system,81,18,3,accept quest
+565,Bern,98,neural interface,3,encounter with rogue AI,29,93,5,accept quest
+566,Remus,9,augmented eyes,10,glitch in the system,64,31,3,accept quest
+567,Celinka,24,augmented eyes,1,encounter with rogue AI,30,39,1,accept quest
+568,Brunhilde,51,cybernetic arm,10,unexpected ally,95,86,2,join faction
+569,Hewet,71,augmented eyes,6,unexpected ally,46,49,7,betray ally
+570,Martainn,49,neural interface,9,encounter with rogue AI,1,4,1,join faction
+571,Gideon,57,neural interface,6,encounter with rogue AI,84,86,6,accept quest
+572,Moishe,61,cybernetic arm,5,glitch in the system,60,5,2,accept quest
+573,Jeannine,47,cybernetic arm,7,glitch in the system,75,70,6,betray ally
+574,Evelin,4,cybernetic arm,2,unexpected ally,75,53,8,accept quest
+575,Lannie,21,augmented eyes,4,glitch in the system,89,36,6,accept quest
+576,Sig,41,neural interface,8,encounter with rogue AI,3,4,7,join faction
+577,Moss,24,cybernetic arm,7,encounter with rogue AI,49,5,10,accept quest
+578,Ruby,1,augmented eyes,8,unexpected ally,34,7,10,betray ally
+579,Boyd,63,augmented eyes,1,unexpected ally,16,67,4,betray ally
+580,Timothea,79,cybernetic arm,4,unexpected ally,39,1,1,betray ally
+581,Stinky,18,neural interface,1,unexpected ally,80,60,7,betray ally
+582,Theo,23,augmented eyes,10,encounter with rogue AI,50,27,2,join faction
+583,Laurie,4,augmented eyes,5,unexpected ally,68,67,8,betray ally
+584,Lebbie,36,augmented eyes,7,unexpected ally,26,35,3,accept quest
+585,Tiffanie,24,cybernetic arm,9,glitch in the system,79,63,2,accept quest
+586,Samuel,51,neural interface,7,glitch in the system,29,81,8,join faction
+587,Beck,54,neural interface,9,unexpected ally,13,99,5,accept quest
+588,Joel,13,neural interface,9,unexpected ally,79,85,10,accept quest
+589,Cinderella,53,augmented eyes,3,glitch in the system,5,81,3,betray ally
+590,Paton,92,neural interface,1,unexpected ally,40,1,8,accept quest
+591,Nita,8,augmented eyes,5,encounter with rogue AI,94,16,7,betray ally
+592,Bernie,58,cybernetic arm,8,encounter with rogue AI,87,5,4,join faction
+593,Sashenka,33,cybernetic arm,8,encounter with rogue AI,41,35,3,accept quest
+594,Kipper,40,neural interface,3,unexpected ally,68,66,8,accept quest
+595,Baudoin,71,neural interface,8,glitch in the system,80,19,7,accept quest
+596,Averill,11,neural interface,8,unexpected ally,97,32,6,accept quest
+597,Emmett,70,cybernetic arm,2,unexpected ally,52,53,7,betray ally
+598,Hakeem,90,cybernetic arm,2,encounter with rogue AI,21,23,4,accept quest
+599,Patrizius,45,neural interface,2,glitch in the system,56,61,10,join faction
+600,Chaddy,44,neural interface,2,encounter with rogue AI,10,31,10,betray ally
+601,Cathrine,56,cybernetic arm,10,glitch in the system,79,21,6,betray ally
+602,Loretta,91,neural interface,7,unexpected ally,40,21,9,accept quest
+603,Jennee,81,augmented eyes,1,unexpected ally,69,95,9,join faction
+604,Elianora,2,neural interface,8,unexpected ally,92,99,9,accept quest
+605,Haroun,92,neural interface,5,glitch in the system,15,7,6,accept quest
+606,Kay,58,cybernetic arm,9,unexpected ally,2,87,3,join faction
+607,Doralia,48,cybernetic arm,7,unexpected ally,3,12,8,betray ally
+608,Jamil,65,cybernetic arm,9,glitch in the system,28,11,7,betray ally
+609,Rhodia,95,neural interface,3,unexpected ally,31,82,9,join faction
+610,Cherise,94,neural interface,10,unexpected ally,25,86,6,betray ally
+611,Lory,63,cybernetic arm,10,encounter with rogue AI,49,14,9,betray ally
+612,Billi,19,augmented eyes,2,unexpected ally,94,50,8,join faction
+613,Danika,93,cybernetic arm,4,encounter with rogue AI,14,45,3,join faction
+614,Kailey,2,augmented eyes,2,glitch in the system,86,97,10,accept quest
+615,Abel,37,cybernetic arm,2,encounter with rogue AI,91,56,1,join faction
+616,Frederic,19,augmented eyes,10,encounter with rogue AI,76,49,6,betray ally
+617,Weston,55,augmented eyes,10,unexpected ally,4,27,8,betray ally
+618,Iggy,34,neural interface,6,unexpected ally,42,29,7,join faction
+619,Claribel,58,neural interface,7,glitch in the system,50,59,10,join faction
+620,Alyda,89,augmented eyes,5,unexpected ally,3,38,5,accept quest
+621,Haze,52,augmented eyes,7,unexpected ally,81,22,2,betray ally
+622,Gretchen,35,neural interface,4,glitch in the system,65,78,3,betray ally
+623,Meghann,39,cybernetic arm,5,encounter with rogue AI,3,71,3,join faction
+624,Fredi,62,neural interface,8,encounter with rogue AI,12,82,2,join faction
+625,Jeanine,85,augmented eyes,8,glitch in the system,29,2,4,betray ally
+626,Barby,31,neural interface,4,encounter with rogue AI,83,80,5,betray ally
+627,Raimund,55,neural interface,9,glitch in the system,48,68,5,accept quest
+628,Dunn,88,cybernetic arm,6,unexpected ally,11,35,2,betray ally
+629,Madlin,34,neural interface,2,unexpected ally,87,71,2,accept quest
+630,Ximenez,46,cybernetic arm,9,encounter with rogue AI,29,17,2,betray ally
+631,Alane,47,neural interface,6,encounter with rogue AI,66,4,8,betray ally
+632,Padraic,70,augmented eyes,9,glitch in the system,86,97,9,join faction
+633,Othilie,94,neural interface,4,unexpected ally,51,14,3,accept quest
+634,Currie,92,augmented eyes,3,unexpected ally,29,24,6,accept quest
+635,Maighdiln,38,augmented eyes,10,unexpected ally,8,30,5,betray ally
+636,Junette,51,augmented eyes,4,unexpected ally,11,77,5,accept quest
+637,Christalle,61,augmented eyes,8,glitch in the system,24,73,1,join faction
+638,Leda,98,augmented eyes,10,encounter with rogue AI,92,98,2,join faction
+639,Harmonie,89,cybernetic arm,3,unexpected ally,88,33,1,betray ally
+640,Imogene,36,neural interface,4,encounter with rogue AI,31,70,2,accept quest
+641,Morton,2,augmented eyes,2,encounter with rogue AI,50,23,7,accept quest
+642,Theodora,67,cybernetic arm,6,glitch in the system,64,66,3,accept quest
+643,Ebonee,98,neural interface,2,glitch in the system,69,57,9,accept quest
+644,Heddi,28,augmented eyes,10,encounter with rogue AI,4,13,7,join faction
+645,Stephannie,17,neural interface,8,glitch in the system,58,88,1,accept quest
+646,Alene,13,augmented eyes,2,encounter with rogue AI,15,67,1,accept quest
+647,Chick,96,augmented eyes,5,unexpected ally,75,89,6,accept quest
+648,Selena,13,augmented eyes,4,encounter with rogue AI,57,34,9,accept quest
+649,Cammi,20,augmented eyes,5,encounter with rogue AI,87,97,2,betray ally
+650,Rouvin,47,augmented eyes,2,unexpected ally,86,76,6,accept quest
+651,Salomone,95,neural interface,7,unexpected ally,98,66,1,join faction
+652,Claudine,77,augmented eyes,8,encounter with rogue AI,87,48,7,betray ally
+653,Bobette,86,augmented eyes,6,unexpected ally,73,66,1,join faction
+654,Ginni,35,cybernetic arm,1,encounter with rogue AI,47,63,9,betray ally
+655,Janetta,91,neural interface,2,encounter with rogue AI,24,44,4,join faction
+656,Jacinthe,87,cybernetic arm,9,glitch in the system,78,10,1,betray ally
+657,Dottie,83,cybernetic arm,3,unexpected ally,69,60,7,accept quest
+658,Gertrudis,38,neural interface,2,glitch in the system,26,12,2,betray ally
+659,Kitti,83,neural interface,2,glitch in the system,25,77,10,accept quest
+660,Ashley,7,cybernetic arm,4,unexpected ally,31,69,5,accept quest
+661,Mair,89,neural interface,3,encounter with rogue AI,33,43,5,accept quest
+662,Alexei,16,cybernetic arm,5,encounter with rogue AI,85,65,10,accept quest
+663,Allistir,58,augmented eyes,2,glitch in the system,77,5,5,join faction
+664,Goldina,29,neural interface,8,unexpected ally,48,61,3,accept quest
+665,Randa,99,neural interface,8,encounter with rogue AI,21,52,6,betray ally
+666,Scot,75,cybernetic arm,8,glitch in the system,10,24,10,join faction
+667,Charmian,46,cybernetic arm,4,unexpected ally,30,68,5,accept quest
+668,Friedrich,15,cybernetic arm,7,unexpected ally,40,50,10,accept quest
+669,Quintus,83,cybernetic arm,10,encounter with rogue AI,17,2,7,join faction
+670,Idaline,82,cybernetic arm,2,glitch in the system,71,84,8,accept quest
+671,Clair,25,augmented eyes,2,glitch in the system,17,55,10,betray ally
+672,Amelie,14,cybernetic arm,7,unexpected ally,90,1,9,betray ally
+673,Hermia,71,augmented eyes,8,unexpected ally,70,35,8,accept quest
+674,Phillipe,18,cybernetic arm,2,glitch in the system,15,47,3,accept quest
+675,Sandor,43,augmented eyes,2,glitch in the system,22,46,9,accept quest
+676,Tate,39,neural interface,5,unexpected ally,81,4,10,join faction
+677,Wallie,37,augmented eyes,5,encounter with rogue AI,94,56,3,betray ally
+678,Brier,50,neural interface,4,unexpected ally,2,55,3,betray ally
+679,Hinze,25,cybernetic arm,3,unexpected ally,95,99,8,accept quest
+680,Ursuline,70,augmented eyes,2,encounter with rogue AI,34,73,10,betray ally
+681,Winslow,98,augmented eyes,8,unexpected ally,78,12,3,accept quest
+682,Hadley,14,neural interface,1,encounter with rogue AI,1,32,5,betray ally
+683,Lu,95,augmented eyes,9,unexpected ally,49,27,6,join faction
+684,Stu,85,augmented eyes,7,encounter with rogue AI,75,86,2,accept quest
+685,Carmela,61,cybernetic arm,10,unexpected ally,86,99,2,join faction
+686,Winny,73,augmented eyes,5,glitch in the system,18,47,3,join faction
+687,Angelita,97,cybernetic arm,10,glitch in the system,21,61,7,betray ally
+688,Mable,66,cybernetic arm,3,glitch in the system,61,27,3,betray ally
+689,Rowan,83,neural interface,10,encounter with rogue AI,11,18,4,betray ally
+690,Kelsey,51,cybernetic arm,8,unexpected ally,69,63,1,betray ally
+691,Chrystel,2,augmented eyes,4,glitch in the system,7,71,6,betray ally
+692,Corilla,80,augmented eyes,9,glitch in the system,97,12,5,betray ally
+693,Linn,22,augmented eyes,2,encounter with rogue AI,61,32,3,accept quest
+694,Ingra,57,neural interface,8,encounter with rogue AI,54,5,8,accept quest
+695,Mace,58,cybernetic arm,2,encounter with rogue AI,12,26,8,accept quest
+696,Kamilah,48,neural interface,5,unexpected ally,65,70,1,accept quest
+697,Idalina,65,neural interface,3,encounter with rogue AI,75,75,10,join faction
+698,Augustus,25,neural interface,8,unexpected ally,89,94,4,betray ally
+699,Coraline,29,cybernetic arm,5,glitch in the system,34,42,8,join faction
+700,Arluene,75,neural interface,3,encounter with rogue AI,54,78,9,accept quest
+701,Lorianne,48,neural interface,4,glitch in the system,25,73,2,betray ally
+702,Marisa,39,neural interface,6,encounter with rogue AI,23,97,7,betray ally
+703,Justinn,95,augmented eyes,5,unexpected ally,90,84,2,accept quest
+704,Marthe,97,cybernetic arm,5,encounter with rogue AI,23,62,1,accept quest
+705,Kit,80,augmented eyes,10,encounter with rogue AI,93,32,8,join faction
+706,Bary,84,cybernetic arm,2,glitch in the system,71,21,8,accept quest
+707,Adah,77,cybernetic arm,3,glitch in the system,58,88,8,betray ally
+708,Lacee,82,neural interface,7,glitch in the system,57,6,10,accept quest
+709,Ruthann,60,cybernetic arm,1,encounter with rogue AI,95,11,2,join faction
+710,Valerye,46,cybernetic arm,8,unexpected ally,4,10,4,accept quest
+711,Violetta,78,cybernetic arm,9,glitch in the system,77,80,3,betray ally
+712,Merle,35,neural interface,3,encounter with rogue AI,79,75,9,accept quest
+713,Clarice,41,augmented eyes,3,encounter with rogue AI,54,75,5,accept quest
+714,Ealasaid,64,augmented eyes,4,encounter with rogue AI,71,17,4,join faction
+715,Sebastian,51,neural interface,7,unexpected ally,96,19,7,accept quest
+716,Margery,62,neural interface,5,unexpected ally,53,87,10,accept quest
+717,Elbert,13,cybernetic arm,7,unexpected ally,10,19,9,betray ally
+718,Joice,5,augmented eyes,7,unexpected ally,92,89,4,join faction
+719,Gayla,60,augmented eyes,9,encounter with rogue AI,42,1,2,accept quest
+720,Titos,87,neural interface,4,unexpected ally,11,23,1,join faction
+721,Joceline,23,neural interface,5,glitch in the system,10,67,5,accept quest
+722,Sayer,59,augmented eyes,9,glitch in the system,54,23,8,accept quest
+723,Estrellita,98,cybernetic arm,9,encounter with rogue AI,31,27,8,betray ally
+724,Elisha,3,neural interface,5,glitch in the system,50,90,1,join faction
+725,Abra,96,cybernetic arm,2,unexpected ally,19,18,6,accept quest
+726,Ker,46,augmented eyes,5,unexpected ally,30,69,10,betray ally
+727,Sada,37,augmented eyes,4,glitch in the system,71,49,9,accept quest
+728,Brose,96,augmented eyes,8,unexpected ally,83,48,3,accept quest
+729,Jen,11,cybernetic arm,2,encounter with rogue AI,12,84,8,betray ally
+730,Galven,26,cybernetic arm,3,encounter with rogue AI,59,84,6,betray ally
+731,Conrado,4,cybernetic arm,6,encounter with rogue AI,38,67,5,join faction
+732,Tildi,87,augmented eyes,7,encounter with rogue AI,3,19,8,accept quest
+733,Any,34,augmented eyes,6,glitch in the system,92,31,1,accept quest
+734,Rosella,61,neural interface,9,unexpected ally,60,6,4,join faction
+735,Gratiana,39,cybernetic arm,4,unexpected ally,45,81,6,join faction
+736,Otis,4,augmented eyes,7,glitch in the system,60,36,6,accept quest
+737,Thedric,28,augmented eyes,5,glitch in the system,14,66,7,join faction
+738,Elwyn,4,neural interface,8,unexpected ally,63,84,8,accept quest
+739,Lucien,27,augmented eyes,9,glitch in the system,68,39,3,join faction
+740,Hollis,31,cybernetic arm,1,unexpected ally,74,25,10,betray ally
+741,Joseito,22,neural interface,4,encounter with rogue AI,66,59,9,join faction
+742,Ruprecht,63,neural interface,9,encounter with rogue AI,25,85,6,accept quest
+743,Odo,86,cybernetic arm,1,encounter with rogue AI,53,68,4,join faction
+744,Bibbie,45,cybernetic arm,6,glitch in the system,90,6,7,betray ally
+745,Alisha,92,neural interface,10,unexpected ally,56,57,6,accept quest
+746,Blair,50,augmented eyes,9,encounter with rogue AI,95,65,5,join faction
+747,Gerianne,46,augmented eyes,6,glitch in the system,49,14,1,join faction
+748,Uriel,11,neural interface,5,unexpected ally,62,74,8,accept quest
+749,Sebastien,26,neural interface,9,unexpected ally,1,44,9,betray ally
+750,Josefina,77,neural interface,3,glitch in the system,89,23,8,join faction
+751,Far,41,neural interface,10,encounter with rogue AI,50,75,10,betray ally
+752,Constance,99,neural interface,7,glitch in the system,2,7,4,accept quest
+753,Rachael,72,augmented eyes,2,glitch in the system,22,93,3,betray ally
+754,Stephan,35,neural interface,5,encounter with rogue AI,63,88,2,join faction
+755,Wendi,100,neural interface,6,encounter with rogue AI,66,91,10,join faction
+756,Thoma,4,neural interface,10,unexpected ally,70,88,2,join faction
+757,Inger,34,cybernetic arm,4,encounter with rogue AI,20,18,2,accept quest
+758,Aloise,77,neural interface,6,glitch in the system,96,8,10,join faction
+759,Orson,85,neural interface,1,encounter with rogue AI,11,61,7,join faction
+760,Jo-anne,73,neural interface,10,encounter with rogue AI,90,89,8,accept quest
+761,Aluino,68,neural interface,5,glitch in the system,51,55,3,accept quest
+762,Jocelyn,32,cybernetic arm,7,glitch in the system,77,14,4,join faction
+763,Zed,3,neural interface,3,glitch in the system,43,29,7,join faction
+764,Silvain,98,augmented eyes,8,unexpected ally,60,38,3,betray ally
+765,Chelsea,58,augmented eyes,4,unexpected ally,81,95,4,betray ally
+766,Marion,93,augmented eyes,2,encounter with rogue AI,46,66,5,betray ally
+767,Barbra,91,neural interface,5,unexpected ally,96,34,1,join faction
+768,Lisle,94,cybernetic arm,8,glitch in the system,66,67,10,betray ally
+769,Braden,87,cybernetic arm,10,encounter with rogue AI,42,55,2,betray ally
+770,Gilli,86,cybernetic arm,7,glitch in the system,64,81,3,accept quest
+771,Brenda,79,augmented eyes,8,glitch in the system,63,90,2,accept quest
+772,Karalee,25,neural interface,4,glitch in the system,14,54,1,betray ally
+773,Rhona,50,augmented eyes,3,glitch in the system,33,22,3,accept quest
+774,Alexandra,69,cybernetic arm,1,glitch in the system,72,98,6,join faction
+775,Dode,62,neural interface,2,encounter with rogue AI,8,21,7,betray ally
+776,Christie,10,augmented eyes,1,unexpected ally,74,26,10,accept quest
+777,Darryl,9,augmented eyes,3,glitch in the system,88,41,3,accept quest
+778,Rozella,9,augmented eyes,2,unexpected ally,52,17,1,join faction
+779,Gabby,18,cybernetic arm,5,glitch in the system,60,99,7,betray ally
+780,Nilson,15,augmented eyes,9,encounter with rogue AI,78,12,8,betray ally
+781,Benita,39,augmented eyes,10,encounter with rogue AI,92,30,7,accept quest
+782,Yvon,11,neural interface,4,glitch in the system,42,13,3,accept quest
+783,Paulie,61,augmented eyes,1,unexpected ally,85,10,8,join faction
+784,Lotty,93,neural interface,3,encounter with rogue AI,57,71,2,accept quest
+785,Miller,8,cybernetic arm,4,encounter with rogue AI,64,28,1,betray ally
+786,Vidovic,64,augmented eyes,5,glitch in the system,86,89,6,betray ally
+787,Emilie,58,augmented eyes,7,encounter with rogue AI,7,63,10,join faction
+788,Maxine,33,augmented eyes,7,unexpected ally,60,39,5,accept quest
+789,Penelopa,93,augmented eyes,5,encounter with rogue AI,69,64,1,accept quest
+790,Loy,75,neural interface,10,glitch in the system,65,60,2,join faction
+791,Levin,7,cybernetic arm,6,glitch in the system,80,66,8,betray ally
+792,Ramsey,86,cybernetic arm,1,unexpected ally,23,14,9,accept quest
+793,Chadd,40,neural interface,7,unexpected ally,57,100,3,accept quest
+794,Rona,14,augmented eyes,7,unexpected ally,85,84,1,betray ally
+795,Vally,62,cybernetic arm,1,unexpected ally,53,68,10,accept quest
+796,Benyamin,99,augmented eyes,6,encounter with rogue AI,56,75,8,accept quest
+797,Ernesta,28,neural interface,4,glitch in the system,83,81,9,accept quest
+798,Kamilah,28,augmented eyes,7,glitch in the system,73,30,7,join faction
+799,Burtie,64,neural interface,4,encounter with rogue AI,6,31,4,join faction
+800,Desiree,7,augmented eyes,2,encounter with rogue AI,20,29,2,join faction
+801,Bennie,43,cybernetic arm,8,encounter with rogue AI,71,56,7,accept quest
+802,Naoma,10,augmented eyes,3,encounter with rogue AI,65,97,10,betray ally
+803,Elke,78,augmented eyes,8,unexpected ally,2,53,9,accept quest
+804,Amata,9,cybernetic arm,3,glitch in the system,27,14,2,accept quest
+805,Elvera,59,cybernetic arm,3,unexpected ally,19,89,8,betray ally
+806,Karim,89,cybernetic arm,7,encounter with rogue AI,32,37,4,join faction
+807,Benjamin,4,neural interface,3,encounter with rogue AI,7,22,5,accept quest
+808,Christa,79,augmented eyes,3,encounter with rogue AI,53,48,2,accept quest
+809,Damita,60,augmented eyes,7,glitch in the system,16,94,1,accept quest
+810,Skipper,22,neural interface,8,unexpected ally,90,48,9,betray ally
+811,Jamima,20,augmented eyes,8,unexpected ally,37,13,3,betray ally
+812,Bella,36,neural interface,10,unexpected ally,95,30,9,betray ally
+813,Rudy,47,augmented eyes,6,glitch in the system,6,81,6,join faction
+814,Germain,98,cybernetic arm,8,encounter with rogue AI,31,81,7,join faction
+815,Danell,75,neural interface,8,glitch in the system,6,30,10,join faction
+816,Lexi,75,cybernetic arm,6,encounter with rogue AI,93,14,7,betray ally
+817,Bette-ann,33,neural interface,7,glitch in the system,48,99,10,betray ally
+818,Ewan,6,neural interface,10,unexpected ally,58,92,4,betray ally
+819,Perry,62,neural interface,3,encounter with rogue AI,62,8,2,accept quest
+820,Druci,32,augmented eyes,6,unexpected ally,24,32,3,betray ally
+821,Quint,98,augmented eyes,6,unexpected ally,83,63,2,accept quest
+822,Ula,29,augmented eyes,6,encounter with rogue AI,88,85,9,accept quest
+823,Caryn,96,cybernetic arm,5,glitch in the system,58,62,6,join faction
+824,Reina,73,augmented eyes,5,glitch in the system,38,82,3,accept quest
+825,Brent,43,augmented eyes,6,encounter with rogue AI,5,54,3,accept quest
+826,Howey,17,cybernetic arm,3,glitch in the system,83,2,8,join faction
+827,Imelda,79,cybernetic arm,1,encounter with rogue AI,77,65,2,accept quest
+828,Clotilda,43,augmented eyes,6,unexpected ally,19,50,6,join faction
+829,Denny,26,neural interface,7,unexpected ally,25,9,8,betray ally
+830,Emmeline,81,augmented eyes,3,encounter with rogue AI,24,58,8,accept quest
+831,Lorettalorna,89,cybernetic arm,2,unexpected ally,13,14,4,accept quest
+832,Meta,86,augmented eyes,8,encounter with rogue AI,41,7,1,join faction
+833,Jackie,91,cybernetic arm,6,unexpected ally,83,99,9,accept quest
+834,Adina,72,augmented eyes,2,glitch in the system,59,68,8,accept quest
+835,Delinda,8,augmented eyes,2,encounter with rogue AI,15,13,5,join faction
+836,Eliza,93,neural interface,5,encounter with rogue AI,39,76,10,accept quest
+837,Brandais,1,neural interface,1,encounter with rogue AI,26,85,9,betray ally
+838,Byron,91,cybernetic arm,4,encounter with rogue AI,33,66,5,accept quest
+839,Adelaida,27,cybernetic arm,1,unexpected ally,10,94,10,accept quest
+840,Daniela,57,augmented eyes,3,unexpected ally,89,74,8,betray ally
+841,Kaleb,100,augmented eyes,9,encounter with rogue AI,82,40,6,accept quest
+842,Corine,67,cybernetic arm,7,glitch in the system,100,12,8,betray ally
+843,Sanderson,58,neural interface,2,unexpected ally,70,42,1,betray ally
+844,Marianne,17,cybernetic arm,5,glitch in the system,18,12,5,betray ally
+845,Lynnea,78,neural interface,1,encounter with rogue AI,71,82,10,betray ally
+846,Dorey,24,augmented eyes,7,encounter with rogue AI,93,36,7,accept quest
+847,Nadeen,47,augmented eyes,8,encounter with rogue AI,97,47,5,join faction
+848,Griswold,61,augmented eyes,8,glitch in the system,82,23,8,betray ally
+849,Shandie,83,neural interface,5,glitch in the system,1,92,3,accept quest
+850,Any,22,augmented eyes,3,glitch in the system,64,71,2,join faction
+851,Nadiya,3,neural interface,5,unexpected ally,70,1,6,join faction
+852,Faustine,1,augmented eyes,5,encounter with rogue AI,75,30,7,accept quest
+853,Victoir,59,neural interface,8,encounter with rogue AI,80,44,10,accept quest
+854,Carlotta,73,augmented eyes,8,glitch in the system,60,59,9,betray ally
+855,Franky,27,cybernetic arm,9,encounter with rogue AI,86,49,1,accept quest
+856,Corri,28,augmented eyes,8,glitch in the system,21,53,2,join faction
+857,Madella,90,neural interface,7,encounter with rogue AI,98,8,8,accept quest
+858,Else,92,neural interface,5,encounter with rogue AI,67,57,3,betray ally
+859,Nettle,74,neural interface,8,encounter with rogue AI,53,68,1,join faction
+860,Devi,60,neural interface,7,glitch in the system,5,87,9,betray ally
+861,Hersch,100,cybernetic arm,10,glitch in the system,61,98,1,join faction
+862,Kathe,46,cybernetic arm,4,glitch in the system,93,85,1,accept quest
+863,Rosemonde,34,cybernetic arm,5,glitch in the system,52,33,1,join faction
+864,Trixy,2,cybernetic arm,7,glitch in the system,51,91,7,betray ally
+865,Horton,48,cybernetic arm,7,unexpected ally,72,96,5,betray ally
+866,Beale,59,augmented eyes,9,glitch in the system,77,11,2,accept quest
+867,Kerrill,84,augmented eyes,9,encounter with rogue AI,100,7,2,join faction
+868,Odella,81,cybernetic arm,5,encounter with rogue AI,49,8,2,betray ally
+869,Forbes,75,augmented eyes,6,encounter with rogue AI,37,2,7,betray ally
+870,Arch,40,cybernetic arm,7,glitch in the system,4,24,5,join faction
+871,Gregorius,99,neural interface,8,glitch in the system,22,70,1,betray ally
+872,Fitz,46,cybernetic arm,8,unexpected ally,65,49,7,accept quest
+873,Carlynn,55,cybernetic arm,9,glitch in the system,92,6,8,join faction
+874,Gratiana,12,neural interface,3,unexpected ally,32,26,3,betray ally
+875,Annissa,89,neural interface,8,unexpected ally,3,30,8,accept quest
+876,Louella,6,augmented eyes,9,encounter with rogue AI,10,72,10,join faction
+877,Filippa,19,cybernetic arm,6,encounter with rogue AI,86,19,3,accept quest
+878,Tabbatha,39,augmented eyes,4,glitch in the system,90,78,5,accept quest
+879,Charyl,19,cybernetic arm,8,encounter with rogue AI,38,35,9,accept quest
+880,Crystal,53,neural interface,10,encounter with rogue AI,97,20,9,join faction
+881,Paddy,68,augmented eyes,8,encounter with rogue AI,33,95,7,betray ally
+882,Juieta,26,augmented eyes,9,unexpected ally,96,74,10,join faction
+883,Augusto,94,cybernetic arm,1,glitch in the system,46,79,1,betray ally
+884,Allsun,22,augmented eyes,9,glitch in the system,69,100,10,accept quest
+885,Steward,100,augmented eyes,10,encounter with rogue AI,71,43,10,accept quest
+886,Margret,57,augmented eyes,2,encounter with rogue AI,1,44,6,betray ally
+887,Trudey,76,augmented eyes,10,unexpected ally,14,11,10,join faction
+888,Dinnie,49,cybernetic arm,8,encounter with rogue AI,61,30,5,join faction
+889,Betteanne,91,augmented eyes,1,unexpected ally,73,94,6,accept quest
+890,Birch,23,cybernetic arm,9,encounter with rogue AI,56,7,7,join faction
+891,Geri,59,cybernetic arm,8,glitch in the system,36,92,9,join faction
+892,Aliza,85,augmented eyes,8,encounter with rogue AI,55,17,5,betray ally
+893,Almeria,64,cybernetic arm,1,glitch in the system,10,72,2,betray ally
+894,Linnet,55,cybernetic arm,1,encounter with rogue AI,50,26,7,betray ally
+895,Tonie,60,cybernetic arm,5,unexpected ally,93,40,1,join faction
+896,Marj,99,cybernetic arm,7,encounter with rogue AI,5,96,6,join faction
+897,Geoff,64,cybernetic arm,3,unexpected ally,95,34,2,join faction
+898,Dougie,64,augmented eyes,9,encounter with rogue AI,92,64,2,accept quest
+899,Fay,2,cybernetic arm,5,encounter with rogue AI,47,78,3,join faction
+900,Marlena,31,cybernetic arm,5,glitch in the system,36,83,2,join faction
+901,Elvis,70,cybernetic arm,4,glitch in the system,27,81,7,join faction
+902,Jarad,58,cybernetic arm,7,encounter with rogue AI,37,45,6,betray ally
+903,Hermon,4,neural interface,6,glitch in the system,44,52,1,accept quest
+904,Inesita,34,cybernetic arm,9,encounter with rogue AI,4,69,9,betray ally
+905,Emmalyn,12,cybernetic arm,7,glitch in the system,22,41,6,join faction
+906,Alfi,30,neural interface,5,glitch in the system,71,82,7,betray ally
+907,Mia,84,cybernetic arm,9,unexpected ally,82,1,6,accept quest
+908,Ado,56,neural interface,3,glitch in the system,38,91,1,join faction
+909,Lenard,81,cybernetic arm,1,encounter with rogue AI,33,60,7,accept quest
+910,Garvey,67,augmented eyes,3,encounter with rogue AI,58,13,7,join faction
+911,Valina,28,augmented eyes,1,unexpected ally,3,85,7,accept quest
+912,Findley,67,cybernetic arm,10,glitch in the system,28,62,5,join faction
+913,Sawyere,49,neural interface,6,glitch in the system,98,72,10,join faction
+914,Timothee,53,neural interface,2,glitch in the system,15,93,8,betray ally
+915,Sibylla,22,cybernetic arm,8,encounter with rogue AI,22,76,5,betray ally
+916,Renie,37,neural interface,5,unexpected ally,26,51,4,betray ally
+917,Alexina,97,augmented eyes,1,glitch in the system,4,64,6,join faction
+918,Amabelle,90,cybernetic arm,10,encounter with rogue AI,57,69,5,betray ally
+919,Lolita,83,neural interface,8,glitch in the system,43,53,5,betray ally
+920,Maurizia,34,augmented eyes,5,encounter with rogue AI,94,57,8,join faction
+921,Alleyn,76,neural interface,6,unexpected ally,33,51,6,betray ally
+922,Steffi,71,cybernetic arm,6,encounter with rogue AI,81,20,8,betray ally
+923,Carmelina,21,augmented eyes,10,glitch in the system,18,88,2,betray ally
+924,Ingeborg,11,neural interface,3,glitch in the system,87,88,5,join faction
+925,Alli,19,cybernetic arm,6,encounter with rogue AI,85,43,6,accept quest
+926,Zaria,62,cybernetic arm,4,glitch in the system,96,48,4,accept quest
+927,Kristi,31,neural interface,10,glitch in the system,41,51,7,accept quest
+928,Sybila,62,neural interface,2,glitch in the system,5,62,8,betray ally
+929,Breanne,79,neural interface,5,encounter with rogue AI,90,82,8,join faction
+930,Ursola,15,augmented eyes,4,glitch in the system,57,20,10,betray ally
+931,Archaimbaud,18,neural interface,4,glitch in the system,29,55,10,join faction
+932,Stan,70,augmented eyes,1,glitch in the system,100,70,5,betray ally
+933,Celine,30,neural interface,1,encounter with rogue AI,94,75,3,betray ally
+934,Natty,81,neural interface,9,glitch in the system,85,38,3,accept quest
+935,Bernete,5,neural interface,5,encounter with rogue AI,69,100,3,join faction
+936,Filippa,3,cybernetic arm,10,glitch in the system,18,86,7,betray ally
+937,Delinda,89,cybernetic arm,1,encounter with rogue AI,34,29,2,betray ally
+938,Merilee,9,augmented eyes,4,glitch in the system,34,7,8,join faction
+939,Obie,9,cybernetic arm,5,unexpected ally,89,77,9,betray ally
+940,Cullan,33,cybernetic arm,6,encounter with rogue AI,73,35,9,join faction
+941,Kile,34,neural interface,8,glitch in the system,54,64,6,accept quest
+942,Edmund,15,augmented eyes,3,glitch in the system,62,100,9,betray ally
+943,Issie,4,augmented eyes,1,glitch in the system,54,100,4,accept quest
+944,Estel,2,augmented eyes,7,encounter with rogue AI,41,38,7,betray ally
+945,Audi,72,cybernetic arm,7,glitch in the system,4,29,10,join faction
+946,Paulie,11,augmented eyes,2,unexpected ally,86,94,9,accept quest
+947,Lil,44,cybernetic arm,8,encounter with rogue AI,7,57,3,join faction
+948,Jarred,29,cybernetic arm,5,unexpected ally,10,44,9,join faction
+949,Marnie,51,augmented eyes,5,encounter with rogue AI,2,29,4,accept quest
+950,Franky,47,cybernetic arm,1,encounter with rogue AI,92,36,4,accept quest
+951,Carie,3,cybernetic arm,3,unexpected ally,13,48,8,accept quest
+952,Arliene,61,cybernetic arm,10,glitch in the system,83,20,6,betray ally
+953,Kellen,11,neural interface,5,encounter with rogue AI,91,39,8,join faction
+954,Pepe,55,cybernetic arm,9,encounter with rogue AI,91,3,7,accept quest
+955,Laurene,38,cybernetic arm,4,encounter with rogue AI,58,58,3,join faction
+956,Tonya,5,neural interface,9,unexpected ally,36,3,5,betray ally
+957,Korry,58,augmented eyes,5,glitch in the system,91,71,7,accept quest
+958,Davy,9,augmented eyes,7,glitch in the system,93,36,1,accept quest
+959,Faulkner,73,cybernetic arm,2,glitch in the system,64,17,10,accept quest
+960,Reinhold,7,cybernetic arm,10,encounter with rogue AI,77,60,10,accept quest
+961,Carmon,85,cybernetic arm,8,unexpected ally,11,16,3,accept quest
+962,Margarethe,89,cybernetic arm,3,unexpected ally,66,68,8,accept quest
+963,Caresse,10,neural interface,4,glitch in the system,25,26,2,betray ally
+964,Philippe,4,cybernetic arm,2,encounter with rogue AI,31,87,2,join faction
+965,Marybeth,9,cybernetic arm,1,encounter with rogue AI,53,39,1,join faction
+966,Harmonia,2,neural interface,5,encounter with rogue AI,99,79,6,betray ally
+967,Aubree,76,augmented eyes,6,encounter with rogue AI,49,78,7,accept quest
+968,Ami,45,neural interface,1,glitch in the system,26,29,3,join faction
+969,Elliot,58,cybernetic arm,2,encounter with rogue AI,87,48,6,betray ally
+970,Catie,59,cybernetic arm,2,encounter with rogue AI,97,75,3,accept quest
+971,Donn,17,augmented eyes,1,unexpected ally,90,90,6,betray ally
+972,Vonnie,22,augmented eyes,7,unexpected ally,94,80,5,join faction
+973,Joya,13,cybernetic arm,4,glitch in the system,40,85,1,betray ally
+974,Gracia,98,neural interface,4,glitch in the system,98,38,8,betray ally
+975,Gary,27,neural interface,10,glitch in the system,60,55,3,accept quest
+976,Olly,91,cybernetic arm,8,unexpected ally,30,52,1,join faction
+977,Barby,59,neural interface,9,glitch in the system,46,79,8,betray ally
+978,Benjamen,37,cybernetic arm,1,unexpected ally,37,39,2,accept quest
+979,Angeli,1,neural interface,3,unexpected ally,7,9,5,betray ally
+980,Gerianna,47,augmented eyes,8,unexpected ally,11,33,2,betray ally
+981,Ursola,2,augmented eyes,9,glitch in the system,2,84,7,join faction
+982,Dermot,76,neural interface,6,glitch in the system,82,6,3,betray ally
+983,Jabez,80,cybernetic arm,9,glitch in the system,10,84,2,accept quest
+984,Josiah,28,augmented eyes,7,unexpected ally,38,2,5,accept quest
+985,Temp,93,cybernetic arm,2,glitch in the system,19,29,10,betray ally
+986,Mahala,78,neural interface,7,glitch in the system,97,94,6,join faction
+987,Alden,90,neural interface,9,unexpected ally,73,63,5,join faction
+988,Errol,7,augmented eyes,3,unexpected ally,82,68,7,join faction
+989,Deloris,53,augmented eyes,1,unexpected ally,48,16,2,betray ally
+990,Adriena,88,cybernetic arm,8,glitch in the system,41,95,7,betray ally
+991,Maurene,53,neural interface,9,encounter with rogue AI,57,9,9,join faction
+992,Tomasina,61,cybernetic arm,10,glitch in the system,80,99,10,accept quest
+993,Opal,89,cybernetic arm,1,unexpected ally,90,76,9,join faction
+994,Briana,10,cybernetic arm,9,encounter with rogue AI,25,50,7,join faction
+995,Nikita,27,cybernetic arm,1,encounter with rogue AI,23,93,8,join faction
+996,Wolf,28,neural interface,2,unexpected ally,42,39,10,betray ally
+997,Lauritz,88,cybernetic arm,7,encounter with rogue AI,53,86,6,accept quest
+998,Alanson,60,neural interface,3,unexpected ally,86,64,6,betray ally
+999,Kenn,34,neural interface,5,unexpected ally,70,47,8,betray ally
+1000,Bud,63,neural interface,6,glitch in the system,73,6,4,accept quest

@@ -118,17 +118,17 @@ function HomeScreen() {
           <View style={styles.modalContainer}>
             <Text style={styles.modalTitle}>Nice!</Text>
             <Text style={styles.modalText}>
-              Вам повезло! Ваше счастливое число: {result}
+              You are lucky! Your lucky number: {result}
             </Text>
 
             <TouchableOpacity style={styles.shareButton} onPress={handleShare}>
-              <Text style={styles.shareText}>Поделиться</Text>
+              <Text style={styles.shareText}>Share</Text>
             </TouchableOpacity>
 
             <TouchableOpacity
               style={styles.cancelButton}
               onPress={() => setModalVisible(false)}>
-              <Text style={styles.cancelText}>Закрыть</Text>
+              <Text style={styles.cancelText}>Close</Text>
             </TouchableOpacity>
           </View>
         </View>
