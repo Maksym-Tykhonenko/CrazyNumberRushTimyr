@@ -728,12 +728,12 @@ export default function App() {
             setLouderPrevIsEnded(true);
         }, 8000);
     }, []);
-
+// <Route isFatch={route} />
     return (
         <Provider store={store}>
             <PersistGate loading={null} persistor={persistor}>
                 <NavigationContainer>
-                    {!louderPrevIsEnded ? (
+                    {!louderPrevIsEnded &&
                         <View
                             style={{
                                 flex: 1,
@@ -763,9 +763,7 @@ export default function App() {
                             </ImageBackground>
                             
                         </View>
-                    ) : (
-                        <Route isFatch={route} />
-                    )}
+                   }
                     
                 </NavigationContainer>
             </PersistGate>
